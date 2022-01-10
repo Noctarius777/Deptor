@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debtor", "Deptor\Debtor.csproj", "{C43C00C3-4638-4384-8E20-BA6645EE6539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debtor.Core", "Deptor.Core\Debtor.Core.csproj", "{FEB783ED-3AB2-43F9-AEA5-C928545DAA29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C43C00C3-4638-4384-8E20-BA6645EE6539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43C00C3-4638-4384-8E20-BA6645EE6539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43C00C3-4638-4384-8E20-BA6645EE6539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43C00C3-4638-4384-8E20-BA6645EE6539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB783ED-3AB2-43F9-AEA5-C928545DAA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB783ED-3AB2-43F9-AEA5-C928545DAA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB783ED-3AB2-43F9-AEA5-C928545DAA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB783ED-3AB2-43F9-AEA5-C928545DAA29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7001C8A1-E2AF-4507-B741-E74237114D20}
+	EndGlobalSection
+EndGlobal

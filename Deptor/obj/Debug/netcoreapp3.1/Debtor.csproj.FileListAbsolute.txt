@@ -1,0 +1,16 @@
+C:\Users\nocta\source\repos\Deptor\Deptor\obj\Debug\netcoreapp3.1\Debtor.csprojAssemblyReference.cache
+C:\Users\nocta\source\repos\Deptor\Deptor\obj\Debug\netcoreapp3.1\Debtor.AssemblyInfoInputs.cache
+C:\Users\nocta\source\repos\Deptor\Deptor\obj\Debug\netcoreapp3.1\Debtor.AssemblyInfo.cs
+C:\Users\nocta\source\repos\Deptor\Deptor\obj\Debug\netcoreapp3.1\Debtor.csproj.CoreCompileInputs.cache
+C:\Users\nocta\source\repos\Deptor\Deptor\bin\Debug\netcoreapp3.1\Debtor.exe
+C:\Users\nocta\source\repos\Deptor\Deptor\bin\Debug\netcoreapp3.1\Debtor.deps.json
+C:\Users\nocta\source\repos\Deptor\Deptor\bin\Debug\netcoreapp3.1\Debtor.runtimeconfig.json
+C:\Users\nocta\source\repos\Deptor\Deptor\bin\Debug\netcoreapp3.1\Debtor.runtimeconfig.dev.json
+C:\Users\nocta\source\repos\Deptor\Deptor\bin\Debug\netcoreapp3.1\Debtor.dll
+C:\Users\nocta\source\repos\Deptor\Deptor\bin\Debug\netcoreapp3.1\Debtor.pdb
+C:\Users\nocta\source\repos\Deptor\Deptor\bin\Debug\netcoreapp3.1\Debtor.Core.dll
+C:\Users\nocta\source\repos\Deptor\Deptor\bin\Debug\netcoreapp3.1\Debtor.Core.pdb
+C:\Users\nocta\source\repos\Deptor\Deptor\obj\Debug\netcoreapp3.1\Debtor.csproj.CopyComplete
+C:\Users\nocta\source\repos\Deptor\Deptor\obj\Debug\netcoreapp3.1\Debtor.dll
+C:\Users\nocta\source\repos\Deptor\Deptor\obj\Debug\netcoreapp3.1\Debtor.pdb
+C:\Users\nocta\source\repos\Deptor\Deptor\obj\Debug\netcoreapp3.1\Debtor.genruntimeconfig.cache

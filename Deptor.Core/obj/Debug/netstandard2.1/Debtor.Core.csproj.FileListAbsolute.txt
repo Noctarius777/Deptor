@@ -1,0 +1,9 @@
+C:\Users\nocta\source\repos\Deptor\Deptor.Core\bin\Debug\netstandard2.1\Debtor.Core.deps.json
+C:\Users\nocta\source\repos\Deptor\Deptor.Core\bin\Debug\netstandard2.1\Debtor.Core.dll
+C:\Users\nocta\source\repos\Deptor\Deptor.Core\bin\Debug\netstandard2.1\Debtor.Core.pdb
+C:\Users\nocta\source\repos\Deptor\Deptor.Core\obj\Debug\netstandard2.1\Debtor.Core.csprojAssemblyReference.cache
+C:\Users\nocta\source\repos\Deptor\Deptor.Core\obj\Debug\netstandard2.1\Debtor.Core.AssemblyInfoInputs.cache
+C:\Users\nocta\source\repos\Deptor\Deptor.Core\obj\Debug\netstandard2.1\Debtor.Core.AssemblyInfo.cs
+C:\Users\nocta\source\repos\Deptor\Deptor.Core\obj\Debug\netstandard2.1\Debtor.Core.csproj.CoreCompileInputs.cache
+C:\Users\nocta\source\repos\Deptor\Deptor.Core\obj\Debug\netstandard2.1\Debtor.Core.dll
+C:\Users\nocta\source\repos\Deptor\Deptor.Core\obj\Debug\netstandard2.1\Debtor.Core.pdb
